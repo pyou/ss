@@ -1,0 +1,2 @@
+# ss
+script for installition
